@@ -32,7 +32,7 @@ return [
     "Habbo" => "Habbo",
     "Hotel" => "Hotel",
     "Habbo name" => "Habbo adı",
-    "Oops.." => "Oops..",
+    "Oops.." => "Uups..",
     "from" => "buradan", // "Viewing page of :habbo: from :hotel:"
     "View Habinfo" => " Habbo detaylarını görüntüle",
     "This hotel does not exist, redirecting you.." => "Bu otel henüz bulunmamakta, başka yere yönlendiriliyorsun..",
@@ -125,7 +125,7 @@ return [
     "Maintenance.." => "Bakım Arası..",
     "maintenance_paragraph_one" => "Selam Habbo! Sayfaya bir kaç yenilik katıyoruz.",
     "maintenance_paragraph_two" => "Bizimle kal! Yakınde geri döneceğiz!",
-    "Follow us on Twitter for updates" => "Bizi Twitter da takip et!",
+    "Follow us on Twitter for updates" => "Bizi X de takip et!",
 
     // 404
     "Oops, page not found" => "Uups, sayfa bulunamadı",
@@ -137,7 +137,7 @@ return [
     "Achievement top x for" => "Toplam Başarı top %d", // "Achievement top x for :hotel:"
     "Last updated" => "Son güncelleme",
     "Badge top x for" => "Toplam Rozet top %d",
-    "Unique badge top x for" => "Unique badge top %d for",
+    "Unique badge top x for" => "Toplam benzersiz rozet top %d ",
     "All x badges in" => "Tüm Rozetler %s bu Otelde", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "keşfedilen gün",
     "Find out which Habbos own a specific badge!" => "Nadir rozet sahibi olanlara bak!",
